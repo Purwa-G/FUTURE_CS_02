@@ -1,0 +1,14 @@
+EMAIL SAMPLE 1
+
+From: support@secure-update-alert.com
+Subject: Urgent: Verify Your Account
+
+Dear User,
+We noticed suspicious activity on your account.
+Please verify your details immediately.
+
+Verify Now:
+http://secure-account-check.com
+
+Regards,
+Security Team
